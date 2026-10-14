@@ -1,0 +1,23 @@
+NUMERIAN V3 · AULA Y COMUNIDAD
+
+PARA PUBLICAR GRATIS UNA DEMOSTRACIÓN:
+Abre PUBLICAR_DEMO.md. Incluye los pasos para Render Free desde GitHub.
+En ese plan, los datos se pierden al suspenderse o reiniciarse el servicio.
+No arrastres este ZIP a Netlify Drop: las cuentas necesitan el servidor.
+
+1. Instala Node.js 24 LTS desde https://nodejs.org/
+2. Abre INICIAR_NUMERIAN.cmd (Windows).
+3. En el navegador abre http://127.0.0.1:8787/
+4. Crea tus cuentas desde Mi cuenta. Guarda los códigos de recuperación.
+5. El profesor crea un grupo; el estudiante solicita ingreso y el profesor lo aprueba.
+6. Para probar varios perfiles a la vez, usa distintos navegadores o ventanas privadas.
+
+La ventana del servidor debe permanecer abierta mientras uses Numerian.
+Los datos se guardan en la carpeta data, creada al iniciar.
+No borres esa carpeta si quieres conservar cuentas, archivos y notas.
+
+IMPORTANTE: esta versión necesita servidor. Subir solamente los HTML a un
+alojamiento estático NO activa las cuentas ni el aula.
+
+El archivo README.md explica instalación, publicación, actividades, archivos,
+familias, evaluación y alcance de seguridad. No se incluyen cuentas de prueba.

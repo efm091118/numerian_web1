@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /api/
+Disallow: /cuenta.html
+Disallow: /estudiantes.html
+Disallow: /profesores.html
+Disallow: /familias.html
+Disallow: /modulo-
